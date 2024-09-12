@@ -1,8 +1,8 @@
 # PVZ-ToolBox
 
-A cheat menu for the Plants vs. Zombies game. Currently unfinished, only shows on command lines and only some features are available.
+A cheat menu for Plants vs. Zombies GOTY Edition. Currently unfinished, only shows on command lines and only some features are available.
 
-一个植物大战僵尸的游戏作弊菜单，当前仍未完成，仅命令行展示且仅部分功能可用。
+一个植物大战僵尸年度版的游戏作弊菜单，当前仍未完成，仅命令行展示且仅部分功能可用。
 
 [Blog about the writing process of this project/该项目编写过程的博客](https://www.cnblogs.com/Here-is-SG/p/18408806)
 
