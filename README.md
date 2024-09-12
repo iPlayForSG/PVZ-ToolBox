@@ -8,6 +8,8 @@ A cheat menu for the Plants vs. Zombies game. Currently unfinished, only shows o
 
 - [x] 阳光修改
 - [x] 阳光锁定
+- [x] 植物无 CD
+- [x] 指定卡槽的植物
 - [ ] 更多功能...
 - [ ] 用 imgui 重写
 
